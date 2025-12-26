@@ -1,4 +1,4 @@
-# Adib Praditya 221011401971 07TPLP020
+# Adib Praditya - 221011401971 - 07TPLP020
 
 # 🏓 Sistem Informasi Penyewaan Lapangan Padel Berbasis Web
 
@@ -115,3 +115,4 @@ Project ini dikembangkan sebagai tugas proyek / pembelajaran untuk menerapkan ko
 
 Project ini dibuat untuk keperluan pembelajaran dan akademik.
 Bebas digunakan dan dikembangkan kembali dengan menyertakan sumber.
+
