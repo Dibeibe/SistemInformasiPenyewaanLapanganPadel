@@ -58,7 +58,7 @@ Dashboard menampilkan ringkasan data seperti jumlah lapangan, jumlah pemesanan, 
 ### 🏟️ Data Lapangan
 Halaman ini digunakan untuk mengelola data lapangan padel, termasuk nama lapangan, harga, dan status ketersediaan.
 
-![Data Lapangan](ss_padel/datalapangan_admin.png)
+![Data Lapangan](ss_padel/datalapangan_admin.jpg)
 
 ---
 
@@ -115,4 +115,5 @@ Project ini dikembangkan sebagai tugas proyek / pembelajaran untuk menerapkan ko
 
 Project ini dibuat untuk keperluan pembelajaran dan akademik.
 Bebas digunakan dan dikembangkan kembali dengan menyertakan sumber.
+
 
