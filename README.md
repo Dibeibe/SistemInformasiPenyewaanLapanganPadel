@@ -100,20 +100,21 @@ Admin dapat melihat laporan penyewaan lapangan berdasarkan data pemesanan yang m
       http://localhost/sistem-sewa-padel
 
 ## 🔐 Role & Hak Akses
-. Role	Hak Akses
-. Admin	Full akses sistem
-. Pengguna	Booking & pembayaran
+1. Role	Hak Akses
+2. Admin	Full akses sistem
+3. Pengguna	Booking & pembayaran
 
 ## 👨‍💻 Pengembang
 Project ini dikembangkan sebagai tugas proyek / pembelajaran untuk menerapkan konsep:
-   . CRUD
-   . Multi-user authentication
-   . Sistem informasi berbasis web
-   . Manajemen database relasional
+1. CRUD
+2. Multi-user authentication
+3. Sistem informasi berbasis web
+4. Manajemen database relasional
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan pembelajaran dan akademik.
+Project ini dibuat untuk memenuhi Tugas Pemrograman Web 2.
 Bebas digunakan dan dikembangkan kembali dengan menyertakan sumber.
+
 
 
